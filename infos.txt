@@ -1,0 +1,4 @@
+Welcome to Gravity Brick Breaker! This is more than your usual Brick Breaker game, featuring shiny Bonuses and incredible level designs. The instructions are simple: click the start button, and you enter level 1 with 3 lives. 
+There are 3 levels to be completed. When you win (or die), your score will be compared to the current high-scores and hopefully added to the list! 
+Simply move the paddle to hit the ball when it falls back down. Some bricks contain bonuses whose motion might surprise you! The bricks' color indicates their resistance.
+ Enjoy.
